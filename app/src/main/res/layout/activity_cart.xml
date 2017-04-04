@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    android:orientation="vertical">
+
+    <include layout="@layout/activity_recycle" />
+
+
+    <TextView
+        android:id="@+id/empty_cart"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Cart is Empty "
+        android:textColor="@color/textColorSecondary"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:visibility="gone"
+        android:typeface="serif"/>
+
+
+
+
+</RelativeLayout>

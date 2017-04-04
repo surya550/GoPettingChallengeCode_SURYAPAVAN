@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Surya_GoPetting Challenge Code</string>
+
+    <string name="networkissue">Network Issue</string>
+    <string name="networkissuemessage">Please connect To the Netowork!!! </string>
+
+</resources>

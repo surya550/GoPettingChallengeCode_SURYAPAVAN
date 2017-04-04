@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187855587263",
+    "project_id": "surya-gopetting-challenge-code"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187855587263:android:942c1a06e4a4c005",
+        "android_client_info": {
+          "package_name": "com.suryapavan.gopetting.challengecode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187855587263-g8teakqpse6omaue2mimsnbfu58cieku.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "187855587263-cjmrch9f8op1frjnq4qbu2cm8mn99t5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suryapavan.gopetting.challengecode",
+            "certificate_hash": "0713c55a8b1e8895493b7e437663c82152a67972"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsb1C_8o-BkWF9xt6jR0LffCvfzFOR0oI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
